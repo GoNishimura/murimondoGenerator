@@ -8,3 +8,7 @@ http://www.cl.ecei.tohoku.ac.jp/~m-suzuki/jawiki_vector/
 
 Neologd辞書
 https://github.com/neologd/mecab-ipadic-neologd/
+
+PDF
+<img src="https://github.com/GoNishimura/images/blob/master/無理問答生成器.pdf">
+
