@@ -10,6 +10,12 @@ Neologd辞書
 https://github.com/neologd/mecab-ipadic-neologd/
 
 
+環境
+<li>
+<ul>macOS High Sierra 10.13.6</ul>
+<ul>Python 3.3.7</ul>
+</li>
+
 出力例
 <img src="https://github.com/GoNishimura/images/blob/master/無理問答生成器のコピー-1.png">
 
