@@ -9,6 +9,9 @@ http://www.cl.ecei.tohoku.ac.jp/~m-suzuki/jawiki_vector/
 Neologd辞書
 https://github.com/neologd/mecab-ipadic-neologd/
 
+無理問答について：『無理問答から見る、人工知能と身体性』
+https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_4M2J903/_article/-char/ja/
+
 
 環境
 <li>
