@@ -12,12 +12,15 @@ https://github.com/neologd/mecab-ipadic-neologd/
 無理問答について：『無理問答から見る、人工知能と身体性』
 https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_4M2J903/_article/-char/ja/
 
+人工知能学会での発表資料
+https://github.com/GoNishimura/images/blob/master/人工知能学会2019発表資料.pdf
+
 
 環境
-<li>
-<ul>macOS High Sierra 10.13.6</ul>
-<ul>Python 3.3.7</ul>
-</li>
+<ul>
+  <li>macOS High Sierra 10.13.6</li>
+  <li>Python 3.3.7</li>
+</ul>
 
 出力例
 <img src="https://github.com/GoNishimura/images/blob/master/無理問答生成器のコピー-1.png">
